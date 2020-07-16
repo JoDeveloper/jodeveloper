@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there I'm joseph  👋
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [snso](https://snso.net/)
 - 🌱 I’m currently learning [flutter](https://flutter.dev/)
