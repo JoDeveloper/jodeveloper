@@ -17,7 +17,7 @@
 
 
 #### Follow me
-[![Twitter: pedromassangom](https://img.shields.io/twitter/follow/pedromassangom?style=social)] (https://twitter.com/jodeveloper8)
+[![Twitter: pedromassangom](https://img.shields.io/twitter/follow/pedromassangom?style=social)] [@jodeveloper](https://twitter.com/jodeveloper8)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=jodeveloper&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
