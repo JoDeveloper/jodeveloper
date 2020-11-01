@@ -8,7 +8,6 @@
 
 
 
-- 🔭 I’m currently working on [snso](https://snso.net/)
 - 🌱 I’m currently learning [flutter](https://flutter.dev/)
 - 💬 Ask me about php - [laravel](http://laravel.com/), [flutter](https://flutter.dev/)
 - 📫 How to reach me: ![Twitter: jodeveloper](https://img.shields.io/twitter/follow/jodeveloper?style=social)
