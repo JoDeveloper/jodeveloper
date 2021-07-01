@@ -1,9 +1,21 @@
-<img  align='right' src="https://github-readme-stats.vercel.app/api?username=jodeveloper&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250" align="right" alt="Computador">
+
+
+
+<br>
+</br>
+
+<a href="https://github.com/unacorbatanegra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodeveloper&count_private=true&show_icons=true&hide_title=true" />
+</a>
+
+<br>
+</br>
 
 
 
 
-### Hi there I'm joseph  👋
+###  Hi there I'm joseph  👋
 
 
 
