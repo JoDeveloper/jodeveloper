@@ -17,7 +17,7 @@
 <p align="left"> 
   
 - 🌱 I’m currently learning [NestJs](https://nestjs.com/)
-- 💬 Ask me about php - [laravel](http://laravel.com/), [flutter](https://flutter.dev/)
+- 💬 Ask me about [php](https://www.php.net/) - [laravel](http://laravel.com/), [flutter](https://flutter.dev/)
 - 📫 How to reach me: ![Twitter: jodeveloper](https://img.shields.io/twitter/follow/jodeveloper?style=social)
 - ⚡ Fun fact: In order to understand recursion, one must first understand recursion
   
