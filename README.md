@@ -1,6 +1,5 @@
 ###  Hi there I'm joseph  👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jodeveloper" alt="jodeveloper" /></a> </p>
 
 <a href="https://github.com/unacorbatanegra">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodeveloper&&count_private=true&theme=cobalt&show_icons=true" />
