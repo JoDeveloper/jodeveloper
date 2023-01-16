@@ -1,8 +1,10 @@
 ###  Hi there I'm joseph  👋
 
-
+[![wakatime](https://wakatime.com/badge/user/27d3ec9f-a012-4175-b8a4-ec0693f49b3f.svg)](https://wakatime.com/@jodeveloper)
+<br>
+</br>
 <a href="https://github.com/unacorbatanegra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodeveloper&&count_private=true&theme=cobalt&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jodeveloper&&count_private=false&theme=cobalt&show_icons=true" />
 </a>
 
 <br>
