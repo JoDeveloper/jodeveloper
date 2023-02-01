@@ -1,5 +1,8 @@
 ###  Hi there I'm joseph  👋
 
+
+<p align="left"> <a href="https://twitter.com/joecoder08" target="blank"><img src="https://img.shields.io/twitter/follow/joecoder08?logo=twitter&style=for-the-badge" alt="joecoder08" /></a> </p>
+
 [![wakatime](https://wakatime.com/badge/user/27d3ec9f-a012-4175-b8a4-ec0693f49b3f.svg)](https://wakatime.com/@jodeveloper)
 <br>
 </br>
@@ -19,7 +22,6 @@
   
 - 🌱 I’m currently learning [NestJs](https://nestjs.com/) , [SpringBoot](https://spring.io/)
 - 💬 Ask me about , [flutter](https://flutter.dev/) , [php](https://www.php.net/) - [laravel](http://laravel.com/)
-- 📫 How to reach me: ![Twitter: jodeveloper](https://img.shields.io/twitter/follow/joecoder08?style=social)
 - ⚡ Fun fact: In order to understand recursion, one must first understand recursion
   
 </p>
