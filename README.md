@@ -2,7 +2,6 @@
 
 <p align="left"> 
   
-- 🌱 I’m currently learning [NestJs](https://nestjs.com/)
 - 💬 Ask me about , [flutter](https://flutter.dev/) , [php](https://www.php.net/) - [laravel](http://laravel.com/)
 
   
