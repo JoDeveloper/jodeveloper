@@ -2,7 +2,7 @@
 
 <p align="left"> 
   
-- 💬 Ask me about , [flutter](https://flutter.dev/) , [php](https://www.php.net/) - [laravel](http://laravel.com/)
+- 💬 Ask me about  [flutter](https://flutter.dev/) , [php](https://www.php.net/) - [laravel](http://laravel.com/) , [js](https://www.javascript.com/)
 
   
 </p>
